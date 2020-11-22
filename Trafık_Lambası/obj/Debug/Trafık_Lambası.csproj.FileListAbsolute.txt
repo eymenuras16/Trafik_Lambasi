@@ -1,0 +1,10 @@
+C:\Users\EymenUras\Source\Repos\Trafık_Lambası\Trafık_Lambası\bin\Debug\Trafık_Lambası.exe.config
+C:\Users\EymenUras\Source\Repos\Trafık_Lambası\Trafık_Lambası\bin\Debug\Trafık_Lambası.exe
+C:\Users\EymenUras\Source\Repos\Trafık_Lambası\Trafık_Lambası\bin\Debug\Trafık_Lambası.pdb
+C:\Users\EymenUras\Source\Repos\Trafık_Lambası\Trafık_Lambası\obj\Debug\Trafık_Lambası.csprojAssemblyReference.cache
+C:\Users\EymenUras\Source\Repos\Trafık_Lambası\Trafık_Lambası\obj\Debug\Trafık_Lambası.Form1.resources
+C:\Users\EymenUras\Source\Repos\Trafık_Lambası\Trafık_Lambası\obj\Debug\Trafık_Lambası.Properties.Resources.resources
+C:\Users\EymenUras\Source\Repos\Trafık_Lambası\Trafık_Lambası\obj\Debug\Trafık_Lambası.csproj.GenerateResource.cache
+C:\Users\EymenUras\Source\Repos\Trafık_Lambası\Trafık_Lambası\obj\Debug\Trafık_Lambası.csproj.CoreCompileInputs.cache
+C:\Users\EymenUras\Source\Repos\Trafık_Lambası\Trafık_Lambası\obj\Debug\Trafık_Lambası.exe
+C:\Users\EymenUras\Source\Repos\Trafık_Lambası\Trafık_Lambası\obj\Debug\Trafık_Lambası.pdb
